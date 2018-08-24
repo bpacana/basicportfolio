@@ -1,0 +1,19 @@
+.indentP {
+  margin-right: 560px;
+}
+
+ul {
+  list-style: none;
+}
+
+.imageStyle {
+  border: 2px solid black;
+}
+
+.italicText {
+  font-style: italic;
+}
+
+.textContext {
+  margin-left: 20px;
+}
