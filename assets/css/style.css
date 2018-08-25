@@ -292,7 +292,7 @@ label {
   border: solid #000 1px;
   display: inline-block;
   padding: 0;
-  background-image: url('http://placehold.it/240x180');
+  background-image: url('https://a.alumni.ucla.edu/events/i-heart-ucla/2015/I-heart-ucla-logo.jpg');
   position: relative;
   font-size: 19px;
   font-style: bold;
@@ -304,11 +304,60 @@ label {
     border: solid #000 1px;
     display: inline-block;
     padding: 0;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/6e/Mona_Lisa_bw_square.jpeg');
+    background-image: url('https://i.ndtvimg.com/i/2017-09/mona-lisa_240x180_71506758527.jpg');
     position: relative;
     font-size: 19px;
     font-style: bold;
   }
+
+.portElement3 {
+  width: 240px;
+  height: 180px;
+  border: solid #000 1px;
+  display: inline-block;
+  padding: 0;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQPwSXVrmgCZKwv8ztHJz9XxjNm8-zL-uzRGKKyqVGI2QOxM5');
+  position: relative;
+  font-size: 19px;
+  font-style: bold;
+}  
+
+.portElement4 {
+  width: 240px;
+  height: 180px;
+  border: solid #000 1px;
+  display: inline-block;
+  padding: 0;
+  background-image: url('http://www.artic.edu/sites/default/files/8227_591535_240x180.jpg');
+  position: relative;
+  font-size: 19px;
+  font-style: bold;
+}
+
+.portElement5 {
+  width: 240px;
+  height: 180px;
+  border: solid #000 1px;
+  display: inline-block;
+  padding: 0;
+  background-image: url('https://c1.staticflickr.com/3/2332/1896159635_56d1ce74b9_m.jpg');
+  position: relative;
+  font-size: 19px;
+  font-style: bold;
+}
+
+.portElement6 {
+  width: 240px;
+  height: 180px;
+  border: solid #000 1px;
+  display: inline-block;
+  padding: 0;
+  background-image: url('https://c1.staticflickr.com/5/4064/4615146645_f56b8d0273_m.jpg');
+  position: relative;
+  font-size: 19px;
+  font-style: bold;
+}
+
 
 
 .portfolioHeader {
